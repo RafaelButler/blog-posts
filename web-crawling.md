@@ -1,10 +1,3 @@
----
-author: Rafael Butler
-date: 22-02-2024
-description: How to do web scraping in PHP - Using Open Source package
-title: Web Scraping com PHP - Spatie Crawler
----
-
 ## Web Scraping with PHP - Spatie Crawler Toolkit for Laravel
 
 Web scraping is a way of collecting data from the internet, and it serves many purposes. It is also called web crawling or data collection.

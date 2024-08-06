@@ -1,9 +1,3 @@
----
-author: Rafael Butler
-description: Investment simulator to see returns over time.
-title: CDI Investor
----
-
 <div className="flex flex-col md:flex-row" style="gap: 1rem;">
   <div className="w-full md:mr-4">
     <img

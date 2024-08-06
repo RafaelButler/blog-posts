@@ -1,10 +1,3 @@
----
-author: Rafael Butler
-date: 01-03-2024
-description: Using traits in Laravel in a practical way to improve code reuse.
-title: Traits no Laravel
----
-
 ## Using Traits in Laravel Practically
 
 To be straightforward, a trait consists of a way to reuse code in a single inheritance language like PHP.
